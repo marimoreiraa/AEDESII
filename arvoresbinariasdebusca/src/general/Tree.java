@@ -1,4 +1,4 @@
-package arvoresbinarias.ex01;
+package general;
 
 public class Tree {
     private Node root; // Raiz

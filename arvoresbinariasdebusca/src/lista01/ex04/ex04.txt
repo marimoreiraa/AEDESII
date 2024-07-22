@@ -1,0 +1,7 @@
+A principal caracteristica de uma Arvore Binaria de Busca é sua organização/ordenação estrita, no qual, 
+o menor valor do nó sempre estará a esquerda e o maior valor do nó sempre estará a direita.
+
+Um exemplo de ABB seria uma agenda de contatos, onde cada nó armazena o nome de um contato e seu número de telefone, 
+ao buscar por um contato especifico, a arvore seria percorrida seguindo a regra de ordenação, ou seja, 
+verificaria se o nome procurado vêm antes ou depois do nó alfabeticamente, se vier antes, continua a busca pela esquerda, se vier depois, 
+continua a busca pela direita, e se o nome procurado for igual ao do nó atual, achou-se o contato.
